@@ -1,6 +1,6 @@
 ## Auto Payments Using Laravel Dusk
 
-Okay, so Laravel dusk is pretty amazing. The other day I was making my utility payment online which I encountered my monthly frustration of **"Why don't these fools have an autopayment option."** If only I could emulate my steps to making to submit my payment. Then it dawned on me&mdash;I could use Larvel Dusk!
+Okay, so Laravel dusk is pretty amazing. The other day I was making my utility payment online which I encountered my monthly frustration of **"Why don't these fools have an autopayment option."** If only I could emulate my steps to making the payment. Then it dawned on me&mdash;I could use Larvel Dusk!
 
 It took me about 15 minutes to write the browser test that submits the payment (see UtilityPayment.php).
 
