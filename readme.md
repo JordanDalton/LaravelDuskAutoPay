@@ -2,7 +2,7 @@
 
 Okay, so Laravel dusk is pretty amazing. The other day I was making my utility payment online which I encountered my monthly frustration of **"Why don't these fools have an autopayment option."** If only I could emulate my steps to making the payment. Then it dawned on me&mdash;I could use Laravel Dusk!
 
-It took me about 15 minutes to write the browser test that submits the payment (see UtilityPayment.php).
+It took me about 15 minutes to write the browser test that submits the payment (see [UtilityPayment.php](https://github.com/JordanDalton/LaravelDuskAutoPay/blob/master/tests/Browser/Pages/UtilityPayment.php)).
 
 The next step was to setup my Mac to run `php artisan dusk`. To do this we will use Automator which comes with all Macs
 
